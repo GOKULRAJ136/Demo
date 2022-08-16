@@ -1,0 +1,7 @@
+class add {
+    public static void main (String [] args){
+    a = 1;
+    b = 2;
+system.out.println (a+b);
+    }
+}
