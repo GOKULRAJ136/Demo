@@ -1,5 +1,7 @@
-int j,n;
-
+public class Tables {
+    public static void main(String[] args)
+    {
+        int j,n;
         System.out.print("Input the number(Table to be calculated): ");
         {
             System.out.print("Input number of terms : ");
@@ -11,3 +13,5 @@ int j,n;
 
                 System.out.println(n+" X "+j+" = " +n*j);
         }
+    }
+}
