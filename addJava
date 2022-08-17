@@ -1,6 +1,6 @@
 class add {
     public static void main (String [] args){
-    a = 50;
+    a = 30;
     b = 20;
     system.out.println (a+b);
     }
