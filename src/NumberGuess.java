@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class NumberGuess {
     public static void numberGame(){
         Scanner scanner = new Scanner(System.in);
